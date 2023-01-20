@@ -3,16 +3,16 @@
 ## Getting started
 
 To create and run the project need to run this command:
-### `docker-compose up`
+# `docker-compose up`
 
 Also we can run the project in detached mode with this command:
-### `docker-compose up -d`
+# `docker-compose up -d`
 
 But if you want to force the docker composer to build and run the project, need to run :
-### `docker-compose up --build`
+# `docker-compose up --build`
 
 Also, for stopping the project, just need to run:
-### `docker-compose down`
+# `docker-compose down`
 
 
 The docker composer can reduce bounch of commands and just by running one command do everyt things.
@@ -86,7 +86,7 @@ docker stop mongodb goals-backend goals-frontend
 
 ```
 
-#commands for running project with node in local machine:
+# commands for running project with node in local machine:
 
 In the project directory, you can run:
 
